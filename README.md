@@ -145,18 +145,6 @@ Exponential/
 
 ---
 
-## 🚀 部署到 GitHub Pages
-
-1. 确保仓库根目录包含 `index.html` 和 `README.md`
-2. 将文件推送到 GitHub 仓库
-3. 进入仓库 **Settings → Pages**
-4. **Source** 选择 `Deploy from a branch`
-5. **Branch** 选择 `main`（或 `master`），目录选 `/ (root)`
-6. 保存后等待 1-2 分钟
-7. 访问 `https://<你的用户名>.github.io/<仓库名>/` 即可开始游戏
-
----
-
 ## 📜 版本历史
 
 完整版本日志可在游戏内【设置 → 📋 版本日志】查看。近期重点：
